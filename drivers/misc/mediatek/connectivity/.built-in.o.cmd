@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/connectivity/built-in.o :=  /home/necoman51/linaro-4.9/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/connectivity/built-in.o drivers/misc/mediatek/connectivity/conn_soc/built-in.o drivers/misc/mediatek/connectivity/common_detect/built-in.o 

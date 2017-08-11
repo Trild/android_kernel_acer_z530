@@ -1,0 +1,1 @@
+cmd_drivers/staging/android/ion/mtk/built-in.o :=  /home/necoman51/linaro-4.9/bin/arm-eabi-ld -EL    -r -o drivers/staging/android/ion/mtk/built-in.o drivers/staging/android/ion/mtk/ion_drv.o drivers/staging/android/ion/mtk/ion_mm_heap.o drivers/staging/android/ion/mtk/ion_fb_heap.o 

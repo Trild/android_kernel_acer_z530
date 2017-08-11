@@ -1,0 +1,1 @@
+cmd_drivers/net/built-in.o :=  /home/necoman51/linaro-4.9/bin/arm-eabi-ld -EL    -r -o drivers/net/built-in.o drivers/net/ifb.o drivers/net/Space.o drivers/net/loopback.o drivers/net/tun.o drivers/net/ppp/built-in.o drivers/net/slip/built-in.o drivers/net/wireless/built-in.o 

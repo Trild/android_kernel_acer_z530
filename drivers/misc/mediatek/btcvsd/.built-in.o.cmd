@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/btcvsd/built-in.o :=  /home/necoman51/linaro/bin/aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/btcvsd/built-in.o drivers/misc/mediatek/btcvsd/mt6735/built-in.o 

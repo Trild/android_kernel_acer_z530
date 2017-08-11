@@ -1,0 +1,1 @@
+cmd_arch/arm/crypto/aes-arm.o := /home/necoman51/linaro-4.9/bin/arm-eabi-ld -EL    -r -o arch/arm/crypto/aes-arm.o arch/arm/crypto/aes-armv8-aarch32.o arch/arm/crypto/aes_glue.o arch/arm/crypto/aes-armv8-bcm.o arch/arm/crypto/aes-armv8-bcm-glue.o 

@@ -1,0 +1,1 @@
+arch/arm/boot/dts/cci6735_35u_l1.dtb: arch/arm/boot/dts/.cci6735_35u_l1.dtb.dts.tmp /home/necoman51/kernel/drivers/misc/mediatek/mach/mt6735/cci6735_35u_l1/dct/dct/cust_eint.dtsi

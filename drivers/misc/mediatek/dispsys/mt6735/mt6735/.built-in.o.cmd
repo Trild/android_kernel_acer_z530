@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/dispsys/mt6735/mt6735/built-in.o :=  /home/necoman51/linaro-4.9/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/dispsys/mt6735/mt6735/built-in.o drivers/misc/mediatek/dispsys/mt6735/mt6735/ddp_ovl.o drivers/misc/mediatek/dispsys/mt6735/mt6735/ddp_rdma.o 

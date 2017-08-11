@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/boot_reason/built-in.o :=  /home/necoman51/linaro/bin/aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/boot_reason/built-in.o drivers/misc/mediatek/boot_reason/BOOT_REASON.o 

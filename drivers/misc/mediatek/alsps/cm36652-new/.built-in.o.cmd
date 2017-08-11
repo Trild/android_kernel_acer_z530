@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/alsps/cm36652-new/built-in.o :=  /home/necoman51/linaro/bin/aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/alsps/cm36652-new/built-in.o drivers/misc/mediatek/alsps/cm36652-new/cm36652.o 

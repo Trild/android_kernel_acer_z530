@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/eccci/mt6735/ccci.o := /home/necoman51/linaro-4.9/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/eccci/mt6735/ccci.o drivers/misc/mediatek/eccci/mt6735/ccci_platform.o drivers/misc/mediatek/eccci/mt6735/cldma_platform.o 

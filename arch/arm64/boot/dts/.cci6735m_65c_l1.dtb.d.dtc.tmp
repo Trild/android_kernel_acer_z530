@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/cci6735m_65c_l1.dtb: arch/arm64/boot/dts/.cci6735m_65c_l1.dtb.dts.tmp arch/arm64/boot/dts/mt6735m.dtsi /home/necoman51/kernel/drivers/misc/mediatek/mach/mt6735/liquidz530/dct/dct/cust_eint.dtsi

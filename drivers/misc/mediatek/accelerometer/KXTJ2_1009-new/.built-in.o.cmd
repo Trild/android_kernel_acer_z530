@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/accelerometer/KXTJ2_1009-new/built-in.o :=  /home/necoman51/linaro-4.9/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/accelerometer/KXTJ2_1009-new/built-in.o drivers/misc/mediatek/accelerometer/KXTJ2_1009-new/kxtj2_1009.o 

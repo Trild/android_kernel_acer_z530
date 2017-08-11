@@ -1,0 +1,1 @@
+cmd_drivers/staging/built-in.o :=  /home/necoman51/linaro-4.9/bin/arm-eabi-ld -EL    -r -o drivers/staging/built-in.o drivers/staging/staging.o drivers/staging/media/built-in.o drivers/staging/zram/built-in.o drivers/staging/zsmalloc/built-in.o drivers/staging/android/built-in.o 
